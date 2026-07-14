@@ -19,7 +19,7 @@ A modern game main menu interface built using HTML, CSS, and JavaScript. This pr
 
 ## Preview
 
-![Game Main Menu](screenshot.png)
+![Game Main Menu](Screenshot.png)
 
 ## Project Structure
 
