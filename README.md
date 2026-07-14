@@ -2,6 +2,14 @@
 
 A modern game main menu interface built using HTML, CSS, and JavaScript. This project recreates a game-style landing screen with animated buttons, smooth transitions, and a custom background.
 
+
+## Live Demo:  
+🌐 Live Site: https://greeshmabal92-a11y.github.io/game-main-menu/
+
+##  Repository
+
+📁 GitHub:  https://github.com/greeshmabal92-a11y/game-main-menu
+
 ## Features
 
 - Animated game title
