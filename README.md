@@ -10,6 +10,10 @@ A modern game main menu interface built using HTML, CSS, and JavaScript. This pr
 
 📁 GitHub:  https://github.com/greeshmabal92-a11y/game-main-menu
 
+## Preview
+
+![Game Main Menu](Screenshot.png)
+
 ## Features
 
 - Animated game title
@@ -24,10 +28,6 @@ A modern game main menu interface built using HTML, CSS, and JavaScript. This pr
 - HTML5
 - CSS3
 - JavaScript
-
-## Preview
-
-![Game Main Menu](Screenshot.png)
 
 ## Project Structure
 
