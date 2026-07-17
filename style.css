@@ -151,6 +151,8 @@ h1{
 
 .project-info p {
     margin: 0;
+    font-size: 15px;
+    line-height: 1.5;
 }
 @keyframes fadeIn{
     from{
